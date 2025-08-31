@@ -157,7 +157,7 @@ const Login: React.FC = () => {
     <div className="min-h-screen flex">
       {/* Left Half - Image */}
       <div className="hidden md:flex w-1/2 bg-cover bg-center" 
-           style={{ backgroundImage: "url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=800&q=80')" }}>
+           style={{ backgroundImage: "url('./public/asset/Generated Image August 31, 2025 - 4_52PM.jpeg')" }}>
         {/* you can overlay text or gradient here if you want */}
       </div>
 
