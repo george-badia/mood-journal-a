@@ -9,6 +9,13 @@ The project consists of several functional modules:
 - **Recommendations**: Offers self-care tips based on user data.
 - **Notifications**: Sends reminders to encourage regular journaling.
 - **Protected Routes**: Ensures users are authenticated before accessing specific pages.
+## Project Demo
+
+🎥 **Watch the demo video:**  
+[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-Loom-blue?logo=loom&style=for-the-badge)](https://www.loom.com/share/1eb0ced00dfc49479a773dfd867763d6)
+
+🌐 **Try the live project:**  
+[**Mood Journal Live Demo**](https://mood-journal-a.vercel.app/#/login)
 
 # Directory Tree
 ```
